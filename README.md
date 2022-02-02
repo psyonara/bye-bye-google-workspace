@@ -10,6 +10,8 @@ This document is meant to help these people find another solution if they prefer
 
 Please consider contributing if you know of any other services not listed here that would help someone transition out of Google Workspace.
 
+To be notified of updates, follow this repo, or follow me on Twitter ([@psyonara](https://twitter.com/psyonara/)) where I will post updates.
+
 ### SaaS or Self-host?
 
 The question for some will be: do I pay for a service, or do I host something myself? In the list of alternatives below, I will divide them into these two categories. Depending on what you want to do, you can then check out the relevant options.
