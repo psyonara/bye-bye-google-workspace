@@ -14,9 +14,11 @@ Please consider contributing if you know of any other services not listed here t
 
 The question for some will be: do I pay for a service, or do I host something myself? In the list of alternatives below, I will divide them into these two categories. Depending on what you want to do, you can then check out the relevant options.
 
+ 
+
 ## Google Workspace Alternatives
 
-
+ 
 
 ### Entire Suite
 
@@ -24,7 +26,7 @@ The question for some will be: do I pay for a service, or do I host something my
 
 - [Zoho Workspace](https://www.zoho.com)
 
-
+ 
 
 ### Gmail
 
@@ -51,6 +53,8 @@ The question for some will be: do I pay for a service, or do I host something my
 - [StartMail](https://www.startmail.com/en/)
 
 - [Hey](https://www.hey.com)
+
+- [MxRoute](https://mxroute.com) (fixed price for unlimited domains and accounts)
 
 #### Self-hosted
 
@@ -92,16 +96,56 @@ The question for some will be: do I pay for a service, or do I host something my
 
 ### Google Photos
 
-coming soon...
+- [Flickr](https://www.flickr.com)
 
+- [Dropbox](https://www.dropbox.com)
 
+- [iCloud]([iCloud - Apple](https://www.apple.com/icloud/))
+
+- [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)
+
+#### Self-hosted
+
+- [Piwigo](https://piwigo.org)
+
+- [PhotoPrism](https://photoprism.app)
+
+- [Lychee](https://lychee.electerious.com)
+
+ 
 
 ### Google Keep
 
-coming soon...
+- [Evernote](https://evernote.com)
 
+- [Todoist](https://todoist.com) (technically more of a To-do app, but can easily be adapted for notes)
 
+- [Microsoft OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)
+
+- [Notion](https://www.notion.so)
+
+- [Joplin](https://joplinapp.org)
+
+- [SimpleNote](https://simplenote.com)
+
+- [Turtl](https://turtlapp.com)
+
+ 
 
 ### Google Analytics
 
-coming soon...
+- [Plausible](https://plausible.io)
+
+- [Fathom](https://usefathom.com)
+
+- [Matomo](https://matomo.org)
+
+- [MixPanel](https://mixpanel.com/home/)
+
+- [KissMetrics](https://www.kissmetrics.io)
+
+#### Self-hosted
+
+- [Ackee](https://ackee.electerious.com)
+
+- [Plausible](https://plausible.io)
