@@ -96,6 +96,8 @@ The question for some will be: do I pay for a service, or do I host something my
 
 - [Paperless](https://docs.paperless-ngx.com/) (for documents primarily)
 
+
+
 ### Google Photos
 
 - [Flickr](https://www.flickr.com)
@@ -115,6 +117,8 @@ The question for some will be: do I pay for a service, or do I host something my
 - [Lychee](https://lychee.electerious.com)
 
 - [Immich](https://immich.app/)
+
+
 
 ### Google Keep
 
