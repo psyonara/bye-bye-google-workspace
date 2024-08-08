@@ -94,7 +94,7 @@ The question for some will be: do I pay for a service, or do I host something my
 
 - [SeaFile](https://www.seafile.com)
 
-
+- [Paperless](https://docs.paperless-ngx.com/) (for documents primarily)
 
 ### Google Photos
 
@@ -102,7 +102,7 @@ The question for some will be: do I pay for a service, or do I host something my
 
 - [Dropbox](https://www.dropbox.com)
 
-- [iCloud]([iCloud - Apple](https://www.apple.com/icloud/))
+- [iCloud](https://www.apple.com/icloud/)
 
 - [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)
 
@@ -114,7 +114,7 @@ The question for some will be: do I pay for a service, or do I host something my
 
 - [Lychee](https://lychee.electerious.com)
 
- 
+- [Immich](https://immich.app/)
 
 ### Google Keep
 
